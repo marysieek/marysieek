@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**marysieek/marysieek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I speak 🇺🇸, 🇵🇱, 🇩🇪, 🇷🇺 and 🇨🇿.
 
-Here are some ideas to get you started:
+👩‍💻 [Linkedin](https://www.linkedin.com/in/korlotianmaria/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+---
+
+[![Marysieek's GitHub stats](https://github-readme-stats.vercel.app/api?username=marysieek)](https://github.com/marysieek/)
