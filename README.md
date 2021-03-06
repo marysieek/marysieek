@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I speak 🇺🇸, 🇵🇱, 🇩🇪, 🇷🇺 and 🇨🇿.
 
 👩‍💻 [Linkedin](https://www.linkedin.com/in/korlotianmaria/)
