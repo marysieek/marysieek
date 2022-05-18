@@ -12,7 +12,3 @@ I speak 🇺🇸, 🇵🇱, 🇩🇪, 🇷🇺 and 🇨🇿.
 ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
----
-
-[![Marysieek's GitHub stats](https://github-readme-stats.vercel.app/api?username=marysieek)](https://github.com/marysieek/)
